@@ -1,0 +1,2 @@
+# logikatalk
+logika python project
